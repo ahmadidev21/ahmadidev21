@@ -27,8 +27,8 @@
 
 ---
 
-<p align="center">
 <h2 align="center">Connect with me</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/mojtaba-ahmadi-666285b5" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
