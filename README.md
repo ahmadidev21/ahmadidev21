@@ -13,15 +13,15 @@ I'm  a  DevOps Engineer
     <img src="https://img.shields.io/badge/-Vim-2db92d?style=for-the-badge&logo=vim&logoColor=white" alt="vim">
     <img src="https://img.shields.io/badge/-Docker-200080?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/-nginx-0f3e0f?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
-    <img src="https://img.shields.io/badge/-gitlab-e0ebeb?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab">
      <br/>
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+ <br />
     <img src="https://img.shields.io/badge/-phpstorm-9900cc?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpstorm">
-     
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
     </p>
 </p>
 
